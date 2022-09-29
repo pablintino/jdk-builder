@@ -1,4 +1,4 @@
-FROM registry.internal.pablintino.net/tools/builder2:v1.0.4
+FROM registry.internal.pablintino.net/tools/builder2:v1.0.6
 
 
 ARG BUILDER_INSTALLATION=/tools
